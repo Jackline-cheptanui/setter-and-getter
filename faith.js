@@ -8,7 +8,7 @@ var kiosk={
 
    },
 }
-console.log(kiosk.fruit3);
+// console.log(kiosk.fruit3);
 
 
 
